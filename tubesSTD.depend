@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1763660079 source:/mnt/data/codeblocks/tubesSTD/tree.cpp
+	"tree.h"
+	<iostream>
+
+1763659875 /mnt/data/codeblocks/tubesSTD/tree.h
+	<string>
+	<vector>
+
+1764232294 source:/mnt/data/codeblocks/tubesSTD/main.cpp
+	<sstream>
+	<iostream>
+	<iomanip>
+	<string.h>
+	<vector>
+	"tree.h"
+
